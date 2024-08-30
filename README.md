@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Hussein Aljorani</h1>
+<h1 align="center">Hi 👋, I'm Hussein</h1>
 <h3 align="center">A Computer Engineering and Computer Science student at Washington University in St. Louis, passionate about FPGA design, embedded systems, and software development.</h3>
 
 <h3 align="left">Connect with me:</h3>
