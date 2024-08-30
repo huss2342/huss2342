@@ -17,20 +17,18 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="C#" height="40" width="40" />
-<img src="https://www.svgrepo.com/show/473592/dotnet.svg" alt=".NET" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="Python" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="Java" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="JavaScript" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt="TypeScript" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/rust.svg" alt="Rust" height="40" width="40" />
+<img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" height="40" width="40" />
 <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/bash.svg" alt="Bash" height="40" width="40" />
 <img src="https://www.svgrepo.com/show/373992/powershell.svg" alt="PowerShell" height="40" width="40" />
-<img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Assembly" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Assembly-RISCV.svg?sanitize=true" alt="RISC-V" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Assembly-Intel.svg?sanitize=true" alt="x86 Assembly" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Assembly-AVR.svg?sanitize=true" alt="AVR Assembly" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Assembly-ARM.svg?sanitize=true" alt="ARM Assembly" height="40" width="40" />
+<img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="x86 Assembly" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/wiki/opencv/opencv/images/riscv.png" alt="RISC-V" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ARM_logo.svg" alt="ARM Assembly" height="40" width="40" />
 <img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="Verilog" height="40" width="40" />
 <img src="https://www.svgrepo.com/show/374164/vhdl.svg" alt="VHDL" height="40" width="40" />
 </details>
