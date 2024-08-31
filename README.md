@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hussein-aljorani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-aljorani" height="30" width="40" /></a>
 </p>
-
+ 
 <details open>
 <summary><h3 align="left">Languages and Tools:</h3></summary>
 <p align="left">
@@ -63,3 +63,7 @@
 
 </p>
 </details>
+
+ [![Hussein's github stats](https://bad-apple-github-readme.vercel.app/api?username=huss2342&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=huss2342&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
