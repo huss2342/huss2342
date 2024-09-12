@@ -10,7 +10,6 @@
 <summary><h3 align="left">Languages and Tools:</h3></summary>
 <p align="left">
   
-<details open>
 <summary><b>Programming and Hardware Description Languages</b></summary>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++" height="40" width="40" />
@@ -30,9 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ARM_logo.svg" alt="ARM Assembly" height="40" width="40" />
 <img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="Verilog" height="40" width="40" />
 <img src="https://www.svgrepo.com/show/374164/vhdl.svg" alt="VHDL" height="40" width="40" />
-</details>
 
-<details open>
 <summary><b>Web Technologies, Frameworks, and Databases</b></summary>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="HTML5" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS3" height="40" width="40" />
@@ -44,9 +41,7 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="PHP" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/databases/mysql.svg" alt="MySQL" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/databases/mongodb.svg" alt="MongoDB" height="40" width="40" />
-</details>
 
-<details open>
 <summary><b>Tools, Technologies, and Platforms</b></summary>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/cloud/docker.svg" alt="Docker" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/git.svg" alt="Git" height="40" width="40" />
@@ -59,7 +54,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Altera_logo.svg" alt="Altera" height="40" width="80" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/linux.svg" alt="Linux" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/windows.svg" alt="Windows" height="40" width="40" />
-</details>
 
 </p>
 </details>
