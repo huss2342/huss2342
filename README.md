@@ -1,5 +1,3 @@
-https://husseinaljorani.com/
-
 ### Languages and Tools
 
 **Programming and Hardware Description Languages**
