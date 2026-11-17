@@ -58,7 +58,7 @@ Order and inventory SaaS for resale businesses: orders, inventory, partner settl
 ### Also built
 
 - DocMorph (private): turns invoices, receipts and bank statements into validated CSV and JSON with Azure OpenAI
-- [TerrainCraft](https://github.com/huss2342/cudaTerrain): GPU procedural terrain generation in CUDA C++
+- [TerrainCraft](https://github.com/huss2342/cudaTerrain): GPU procedural terrain generation in CUDA C++, about 300x faster than the same code on one CPU core
 - [RichArduino GUI](https://github.com/huss2342/Oscilloscope_Host) and [VHDL design](https://github.com/huss2342/Oscilloscope_VHDL): an oscilloscope on a custom PCB, from FPGA to Qt desktop app
 - [shadPS4](https://github.com/shadps4-emu/shadPS4/pull/693): added the Arabic translation to the PS4 emulator (merged)
 
